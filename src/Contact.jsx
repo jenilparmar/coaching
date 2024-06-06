@@ -7,7 +7,7 @@ export default function Contact() {
         <div className="flex flex-row  justify-center gap-10 w-screen h-32">
           <div className="rounded-2xl self-center w-20 h-20 flex flex-col">
             <div className="text-green-500 font-bold text-2xl text-nowrap relative right-10">Whatsapp us</div>
-            <div><i class="fa-brands text-4xl text-green-500  self-center fa-square-whatsapp active:text-green-700 mx-4"></i></div>
+            <div><a href="https://wa.me/qr/2XBHN2XL2XURF1"><i class="fa-brands text-4xl text-green-500  self-center fa-square-whatsapp active:text-green-700 mx-4"></i></a></div>
           </div>
           <div
             className="w-28 h-28 rounded-2xl bg-transparent self-center"
