@@ -29,7 +29,7 @@ export default function Faculty() {
         height:'70vh'
       }}>
         <div className="text-center text-4xl p-4 font-bold text-white">
-          {enter?"Our Feculty":undefined}
+          {enter?"Our Faculty":undefined}
         </div>
        {enter?<>
         <div className=" w-screen flex flex-row gap-2 justify-center h-40" id="g2">
